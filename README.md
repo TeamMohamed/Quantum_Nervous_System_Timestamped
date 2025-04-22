@@ -4,7 +4,7 @@ Date: 25.02.2025
 Author: Anwar Mohamed
 Status: Finalized & Timestamped
 Zenodo DOI: https://doi.org/10.5281/zenodo.15238733
-GitHub: Quantum_Nervous_System_Timestamped
+GitHub: Quantum Nervoun System
 
 🧠 Overview
 The Quantum Nervous System (QNS) Dataset is a precision-engineered, clinically integrable map of quantum biological mechanisms governing neural function, neuroplasticity, and signal coherence across the human nervous system. It bridges quantum physics, epigenetics, bioelectric medicine, ECS modulation, and AI-driven cognitive recalibration.
@@ -64,8 +64,8 @@ Misattribution or Derivative Claims
 🧠 Clinician SaaS + Wearable Deployment – Plug-and-play API to neurotherapeutic devices
 
 📩 For Licensing, Research Collabs, or Clinical Application:
-📧 ecssignalling@gmail.com
-🌐 Zenodo Link
+📧 TeamMohamed@proton.me
+🌐 Zenodo Link (Pending)
 🔗 GitHub Timestamped Repo
 
 Timestamped. Secured. Ready for Deployment.
